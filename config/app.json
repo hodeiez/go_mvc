@@ -1,0 +1,11 @@
+{
+  "app_name": "go_mvc",
+  "base_url": "http://localhost:8090",
+  "port": 8090,
+  "verbose": false,
+  "static_dir": "static",
+  "view_dir": "views",
+  "database": "postgres",
+  "database_conn": "postgres://USER:PASS@HOST:PORT/DB_NAME?sslmode=disable",
+  "automigrate": false
+}
